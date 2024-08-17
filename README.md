@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects, Full Stack Applications**
 
-- 💬 Ask me about **JAVA, Data Structures, Reac.JS, Node.JS**
+- 💬 Ask me about **JAVA, Data Structures, React.JS, Node.JS**
 
 - ⚡ Fun fact **I love solving complex puzzles and challenges.**
 
